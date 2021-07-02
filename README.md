@@ -9,4 +9,4 @@ The ball striking a brick causes the brick to disappear. When all the bricks are
 
 ## Running the project:
 Download the files and make sure that the libary biuoop-1.4.jar are inside the project.<br />
-Now,you can run the game! enjoy!
+Now, run the game!
